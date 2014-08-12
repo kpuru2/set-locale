@@ -13,6 +13,9 @@ using SetLocale.Client.Web.Services;
 
 namespace SetLocale.Client.Web.Controllers
 {
+    /// <summary>
+    /// APi Base Controller, this is test comment by kpuru2
+    /// </summary>
     [AllowAnonymous]
     public class ApiController : BaseController
     {
